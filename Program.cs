@@ -1,4 +1,4 @@
-﻿namespace donglerwhile;
+﻿namespace dongulerwhile;
 class Program
 {
     static void Main(string[] args)
