@@ -1,0 +1,14 @@
+D:\Sites\donglerwhile\bin\Debug\net6.0\donglerwhile.exe
+D:\Sites\donglerwhile\bin\Debug\net6.0\donglerwhile.deps.json
+D:\Sites\donglerwhile\bin\Debug\net6.0\donglerwhile.runtimeconfig.json
+D:\Sites\donglerwhile\bin\Debug\net6.0\donglerwhile.dll
+D:\Sites\donglerwhile\bin\Debug\net6.0\donglerwhile.pdb
+D:\Sites\donglerwhile\obj\Debug\net6.0\donglerwhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sites\donglerwhile\obj\Debug\net6.0\donglerwhile.AssemblyInfoInputs.cache
+D:\Sites\donglerwhile\obj\Debug\net6.0\donglerwhile.AssemblyInfo.cs
+D:\Sites\donglerwhile\obj\Debug\net6.0\donglerwhile.csproj.CoreCompileInputs.cache
+D:\Sites\donglerwhile\obj\Debug\net6.0\donglerwhile.dll
+D:\Sites\donglerwhile\obj\Debug\net6.0\refint\donglerwhile.dll
+D:\Sites\donglerwhile\obj\Debug\net6.0\donglerwhile.pdb
+D:\Sites\donglerwhile\obj\Debug\net6.0\donglerwhile.genruntimeconfig.cache
+D:\Sites\donglerwhile\obj\Debug\net6.0\ref\donglerwhile.dll
