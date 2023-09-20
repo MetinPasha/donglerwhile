@@ -7,7 +7,7 @@ class Program
         Console.WriteLine("Bir sayi giriniz ");
         int n = int.Parse(Console.ReadLine());
         int sayac = 1;
-        int toplam = 0;
+        int toplam = 0; 
 
         while (sayac<= n)
         {
